@@ -1,2 +1,6 @@
 # COMP10002-Sudoku-Solver
-COMP10002 Project 1
+## Using the Program
+The program can only solve "easy" difficulty sudokus. To use the program, compile and pass the test data files.
+
+For example:
+``` ass1.c < data1.txt```
