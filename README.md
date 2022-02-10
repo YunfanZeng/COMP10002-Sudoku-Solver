@@ -1,6 +1,6 @@
 # COMP10002-Sudoku-Solver
 ## Using the Program
-The C program can only solve "easy" difficulty sudokus. To use the program, compile and pass the test data files.
+The C program can only solve "easy" difficulty sudokus. To use the program, pass the test data files to the executables.
 
 For example:
-``` ass1.c < data1.txt```
+``` ass1.exe < data1.txt```
