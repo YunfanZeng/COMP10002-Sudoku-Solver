@@ -7,4 +7,4 @@ MinGW:
 ``` ass1.exe < data1.txt```
 
 CMD:
-```Get-Content test0.txt | .\ass2.exe```
+```Get-Content data1.txt | .\ass1.exe```
